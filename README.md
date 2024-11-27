@@ -7,6 +7,10 @@
 
 # Результат<br>
 AutoKeras использовал свёрточную модель для обработки текста.<br>
-Без какой-либо обработки удалось добиться точности классификации 84% за 4 эпохи обучения.
+Используемая архитектура:<br><br>
+![alt text](https://github.com/AlSG00/Customer_Support_Classifier/blob/master/model.png)
+<br><br>
 
+Без какой-либо обработки удалось добиться точности классификации 84% за 4 эпохи обучения:<br><br>
+![alt text](https://github.com/AlSG00/Customer_Support_Classifier/blob/master/accuracy.png)
 
